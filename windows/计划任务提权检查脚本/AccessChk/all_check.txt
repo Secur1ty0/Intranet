@@ -1,0 +1,1655 @@
+任务名：
+\GoogleUpdateTaskMachineCore
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files (x86)\Google\Update\GoogleUpdate.exe"
+返回结果：
+C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\GoogleUpdateTaskMachineCore
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files (x86)\Google\Update\GoogleUpdate.exe"
+返回结果：
+C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\GoogleUpdateTaskMachineUA
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files (x86)\Google\Update\GoogleUpdate.exe"
+返回结果：
+C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\JavaUpdateSched
+作为用户运行：
+Users
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe"
+返回结果：
+C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\MicrosoftEdgeUpdateTaskMachineCore1d6e890db73d7eb
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"
+返回结果：
+C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\MicrosoftEdgeUpdateTaskMachineCore1d6e890db73d7eb
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"
+返回结果：
+C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\MicrosoftEdgeUpdateTaskMachineUA
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"
+返回结果：
+C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\npcapwatchdog
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files\Npcap\CheckStatus.bat"
+返回结果：
+C:\Program Files\Npcap\CheckStatus.bat
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\WpsUpdateTask_Administrator
+作为用户运行：
+Administrator
+执行命令：
+accesschk.exe  /accepteula -uwqv "D:\WPS Office\11.1.0.10314\wtoolex\wpsupdate.exe"
+返回结果：
+D:\WPS Office\11.1.0.10314\wtoolex\wpsupdate.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW NT AUTHORITY\Authenticated Users
+	FILE_APPEND_DATA
+	FILE_EXECUTE
+	FILE_READ_ATTRIBUTES
+	FILE_READ_DATA
+	FILE_READ_EA
+	FILE_WRITE_ATTRIBUTES
+	FILE_WRITE_DATA
+	FILE_WRITE_EA
+	DELETE
+	SYNCHRONIZE
+	READ_CONTROL
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Office\OfficeAutomaticUpdates2.0
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeC2RClient.exe"
+返回结果：
+C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeC2RClient.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Office\OfficeAutomaticUpdates2.0
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeC2RClient.exe"
+返回结果：
+C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeC2RClient.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Office\OfficeAutomaticUpdates2.0
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeC2RClient.exe"
+返回结果：
+C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeC2RClient.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Office\OfficeClickToRunServiceMonitor
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeC2RClient.exe"
+返回结果：
+C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeC2RClient.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Office\OfficeFeatureUpdates
+作为用户运行：
+Users
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files (x86)\Microsoft Office\root\Office16\sdxhelper.exe"
+返回结果：
+C:\Program Files (x86)\Microsoft Office\root\Office16\SDXHelper.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Office\OfficeFeatureUpdates
+作为用户运行：
+Users
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files (x86)\Microsoft Office\root\Office16\sdxhelper.exe"
+返回结果：
+C:\Program Files (x86)\Microsoft Office\root\Office16\SDXHelper.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Office\OfficeFeatureUpdates
+作为用户运行：
+Users
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files (x86)\Microsoft Office\root\Office16\sdxhelper.exe"
+返回结果：
+C:\Program Files (x86)\Microsoft Office\root\Office16\SDXHelper.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Office\OfficeFeatureUpdates
+作为用户运行：
+Users
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files (x86)\Microsoft Office\root\Office16\sdxhelper.exe"
+返回结果：
+C:\Program Files (x86)\Microsoft Office\root\Office16\SDXHelper.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Office\OfficeFeatureUpdates
+作为用户运行：
+Users
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files (x86)\Microsoft Office\root\Office16\sdxhelper.exe"
+返回结果：
+C:\Program Files (x86)\Microsoft Office\root\Office16\SDXHelper.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Office\OfficeFeatureUpdates
+作为用户运行：
+Users
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files (x86)\Microsoft Office\root\Office16\sdxhelper.exe"
+返回结果：
+C:\Program Files (x86)\Microsoft Office\root\Office16\SDXHelper.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Office\OfficeFeatureUpdatesLogon
+作为用户运行：
+Users
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files (x86)\Microsoft Office\root\Office16\sdxhelper.exe"
+返回结果：
+C:\Program Files (x86)\Microsoft Office\root\Office16\SDXHelper.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Office\OfficeFeatureUpdatesLogon
+作为用户运行：
+Users
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files (x86)\Microsoft Office\root\Office16\sdxhelper.exe"
+返回结果：
+C:\Program Files (x86)\Microsoft Office\root\Office16\SDXHelper.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\VisualStudio\Updates\BackgroundDownload
+作为用户运行：
+Administrator
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe"
+返回结果：
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT AUTHORITY\SYSTEM
+	FILE_ALL_ACCESS
+  RW BUILTIN\Administrators
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\AppID\PolicyConverter
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\appidpolicyconverter.exe"
+返回结果：
+C:\WINDOWS\system32\appidpolicyconverter.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\AppID\VerifiedPublisherCertStoreCheck
+作为用户运行：
+LOCALSERVICE
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\appidcertstorecheck.exe"
+返回结果：
+C:\WINDOWS\system32\appidcertstorecheck.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\ApplicationExperience\MicrosoftCompatibilityAppraiser
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\compattelrunner.exe"
+返回结果：
+C:\WINDOWS\system32\CompatTelRunner.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\ApplicationExperience\MicrosoftCompatibilityAppraiser
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\compattelrunner.exe"
+返回结果：
+C:\WINDOWS\system32\CompatTelRunner.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\ApplicationExperience\MicrosoftCompatibilityAppraiser
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\compattelrunner.exe"
+返回结果：
+C:\WINDOWS\system32\CompatTelRunner.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\ApplicationExperience\ProgramDataUpdater
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\compattelrunner.exe"
+返回结果：
+C:\WINDOWS\system32\CompatTelRunner.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\ApplicationExperience\StartupAppTask
+作为用户运行：
+INTERACTIVE
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\rundll32.exe"
+返回结果：
+C:\WINDOWS\system32\rundll32.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\ApplicationData\appuriverifierdaily
+作为用户运行：
+INTERACTIVE
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\AppHostRegistrationVerifier.exe"
+返回结果：
+C:\WINDOWS\system32\AppHostRegistrationVerifier.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\ApplicationData\appuriverifierinstall
+作为用户运行：
+INTERACTIVE
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\AppHostRegistrationVerifier.exe"
+返回结果：
+C:\WINDOWS\system32\AppHostRegistrationVerifier.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\ApplicationData\CleanupTemporaryState
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\rundll32.exe"
+返回结果：
+C:\WINDOWS\system32\rundll32.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\ApplicationData\DsSvcCleanup
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\dstokenclean.exe"
+返回结果：
+C:\WINDOWS\system32\dstokenclean.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\AppxDeploymentClient\Pre-stagedappcleanup
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\rundll32.exe"
+返回结果：
+C:\WINDOWS\system32\rundll32.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Autochk\Proxy
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\rundll32.exe"
+返回结果：
+C:\WINDOWS\system32\rundll32.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Clip\LicenseValidation
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%SystemRoot%\system32\ClipUp.exe"
+返回结果：
+C:\WINDOWS\system32\ClipUp.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\CustomerExperienceImprovementProgram\Consolidator
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%SystemRoot%\System32\wsqmcons.exe"
+返回结果：
+C:\WINDOWS\System32\wsqmcons.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Defrag\ScheduledDefrag
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\defrag.exe"
+返回结果：
+C:\WINDOWS\system32\Defrag.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\DeviceInformation\Device
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\devicecensus.exe"
+返回结果：
+C:\WINDOWS\system32\DeviceCensus.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\DeviceInformation\Device
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\devicecensus.exe"
+返回结果：
+C:\WINDOWS\system32\DeviceCensus.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\DeviceInformation\Device
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\devicecensus.exe"
+返回结果：
+C:\WINDOWS\system32\DeviceCensus.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\mitigationscanner.exe"
+返回结果：
+C:\WINDOWS\system32\mitigationscanner.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\mitigationscanner.exe"
+返回结果：
+C:\WINDOWS\system32\mitigationscanner.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\DirectX\DirectXDatabaseUpdater
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\directxdatabaseupdater.exe"
+返回结果：
+C:\WINDOWS\system32\directxdatabaseupdater.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\DirectX\DirectXDatabaseUpdater
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\directxdatabaseupdater.exe"
+返回结果：
+C:\WINDOWS\system32\directxdatabaseupdater.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\DirectX\DXGIAdapterCache
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\dxgiadaptercache.exe"
+返回结果：
+C:\WINDOWS\system32\dxgiadaptercache.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\DirectX\DXGIAdapterCache
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\dxgiadaptercache.exe"
+返回结果：
+C:\WINDOWS\system32\dxgiadaptercache.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\DiskCleanup\SilentCleanup
+作为用户运行：
+Users
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\cleanmgr.exe"
+返回结果：
+C:\WINDOWS\system32\cleanmgr.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\rundll32.exe"
+返回结果：
+C:\WINDOWS\system32\rundll32.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticResolver
+作为用户运行：
+Users
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\DFDWiz.exe"
+返回结果：
+C:\WINDOWS\system32\DFDWiz.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\DiskFootprint\Diagnostics
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\disksnapshot.exe"
+返回结果：
+C:\WINDOWS\system32\DiskSnapshot.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\DUSM\dusmtask
+作为用户运行：
+INTERACTIVE
+执行命令：
+accesschk.exe  /accepteula -uwqv "%SystemRoot%\System32\dusmtask.exe"
+返回结果：
+C:\WINDOWS\System32\dusmtask.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\EnterpriseMgmt\MDMMaintenenceTask
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\MDMAgent.exe"
+返回结果：
+C:\WINDOWS\system32\MDMAgent.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Feedback\Siuf\DmClient
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\dmclient.exe"
+返回结果：
+C:\WINDOWS\system32\dmclient.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Feedback\Siuf\DmClientOnScenarioDownload
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\dmclient.exe"
+返回结果：
+C:\WINDOWS\system32\dmclient.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\HelloFace\FODCleanupTask
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%WinDir%\System32\WinBioPlugIns\FaceFodUninstaller.exe"
+返回结果：
+C:\WINDOWS\System32\WinBioPlugIns\FaceFodUninstaller.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Location\Notifications
+作为用户运行：
+AuthenticatedUsers
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\System32\LocationNotificationWindows.exe"
+返回结果：
+C:\WINDOWS\System32\LocationNotificationWindows.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Location\WindowsActionDialog
+作为用户运行：
+AuthenticatedUsers
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\System32\WindowsActionDialog.exe"
+返回结果：
+C:\WINDOWS\System32\WindowsActionDialog.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Management\Provisioning\Cellular
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\ProvTool.exe"
+返回结果：
+C:\WINDOWS\system32\provtool.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Management\Provisioning\Logon
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\ProvTool.exe"
+返回结果：
+C:\WINDOWS\system32\provtool.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\MobileBroadbandAccounts\MNOMetadataParser
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%SystemRoot%\System32\MbaeParserTask.exe"
+返回结果：
+C:\WINDOWS\System32\MbaeParserTask.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\MUI\LPRemove
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\lpremove.exe"
+返回结果：
+C:\WINDOWS\system32\lpremove.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\NetTrace\GatherNetworkInfo
+作为用户运行：
+Users
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\gatherNetworkInfo.vbs"
+返回结果：
+C:\WINDOWS\system32\gatherNetworkInfo.vbs
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\NlaSvc\WiFiTask
+作为用户运行：
+INTERACTIVE
+执行命令：
+accesschk.exe  /accepteula -uwqv "%SystemRoot%\System32\WiFiTask.exe"
+返回结果：
+C:\WINDOWS\System32\wifitask.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\PlugandPlay\SysprepGeneralizeDrivers
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%SystemRoot%\System32\drvinst.exe"
+返回结果：
+C:\WINDOWS\System32\drvinst.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Printing\EduPrintProv
+作为用户运行：
+INTERACTIVE
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\eduprintprov.exe"
+返回结果：
+C:\WINDOWS\system32\EduPrintProv.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\PushToInstall\LoginCheck
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\sc.exe"
+返回结果：
+C:\WINDOWS\system32\sc.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\PushToInstall\Registration
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\sc.exe"
+返回结果：
+C:\WINDOWS\system32\sc.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\PushToInstall\Registration
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\sc.exe"
+返回结果：
+C:\WINDOWS\system32\sc.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\RemoteAssistance\RemoteAssistanceTask
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\RAServer.exe"
+返回结果：
+C:\WINDOWS\system32\raserver.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\RemoteAssistance\RemoteAssistanceTask
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\RAServer.exe"
+返回结果：
+C:\WINDOWS\system32\raserver.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\SharedPC\AccountCleanup
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\System32\rundll32.exe"
+返回结果：
+C:\WINDOWS\System32\rundll32.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Shell\FamilySafetyMonitor
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\System32\wpcmon.exe"
+返回结果：
+C:\WINDOWS\System32\WpcMon.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\SpacePort\SpaceAgentTask
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\SpaceAgent.exe"
+返回结果：
+C:\WINDOWS\system32\SpaceAgent.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\SpacePort\SpaceAgentTask
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\SpaceAgent.exe"
+返回结果：
+C:\WINDOWS\system32\SpaceAgent.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\SpacePort\SpaceManagerTask
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\spaceman.exe"
+返回结果：
+C:\WINDOWS\system32\spaceman.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\SpacePort\SpaceManagerTask
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\spaceman.exe"
+返回结果：
+C:\WINDOWS\system32\spaceman.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Speech\HeadsetButtonPress
+作为用户运行：
+INTERACTIVE
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\speech_onecore\common\SpeechRuntime.exe"
+返回结果：
+C:\WINDOWS\system32\speech_onecore\common\SpeechRuntime.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Speech\SpeechModelDownloadTask
+作为用户运行：
+NETWORKSERVICE
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\speech_onecore\common\SpeechModelDownload.exe"
+返回结果：
+C:\WINDOWS\system32\speech_onecore\common\SpeechModelDownload.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\StateRepository\MaintenanceTasks
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\rundll32.exe"
+返回结果：
+C:\WINDOWS\system32\rundll32.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\StorageTiersManagement\StorageTiersOptimization
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\defrag.exe"
+返回结果：
+C:\WINDOWS\system32\Defrag.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Subscription\EnableLicenseAcquisition
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%SystemRoot%\system32\ClipRenew.exe"
+返回结果：
+C:\WINDOWS\system32\ClipRenew.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Subscription\EnableLicenseAcquisition
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%SystemRoot%\system32\ClipRenew.exe"
+返回结果：
+C:\WINDOWS\system32\ClipRenew.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Subscription\EnableLicenseAcquisition
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%SystemRoot%\system32\ClipRenew.exe"
+返回结果：
+C:\WINDOWS\system32\ClipRenew.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Subscription\LicenseAcquisition
+作为用户运行：
+INTERACTIVE
+执行命令：
+accesschk.exe  /accepteula -uwqv "%SystemRoot%\system32\ClipRenew.exe"
+返回结果：
+C:\WINDOWS\system32\ClipRenew.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Subscription\LicenseAcquisition
+作为用户运行：
+INTERACTIVE
+执行命令：
+accesschk.exe  /accepteula -uwqv "%SystemRoot%\system32\ClipRenew.exe"
+返回结果：
+C:\WINDOWS\system32\ClipRenew.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Subscription\LicenseAcquisition
+作为用户运行：
+INTERACTIVE
+执行命令：
+accesschk.exe  /accepteula -uwqv "%SystemRoot%\system32\ClipRenew.exe"
+返回结果：
+C:\WINDOWS\system32\ClipRenew.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\Sysmain\WsSwapAssessmentTask
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\rundll32.exe"
+返回结果：
+C:\WINDOWS\system32\rundll32.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\SystemRestore\SR
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\srtasks.exe"
+返回结果：
+C:\WINDOWS\system32\SrTasks.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\termsrv\RemoteFX\RemoteFXvGPUDisableTask
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\System32\RemoteFXvGPUDisablement.exe"
+返回结果：
+C:\WINDOWS\System32\RemoteFXvGPUDisablement.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\termsrv\RemoteFX\RemoteFXWarningTask
+作为用户运行：
+Users
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\System32\RemoteFXvGPUDisablement.exe"
+返回结果：
+C:\WINDOWS\System32\RemoteFXvGPUDisablement.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\TimeSynchronization\SynchronizeTime
+作为用户运行：
+LOCALSERVICE
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\sc.exe"
+返回结果：
+C:\WINDOWS\system32\sc.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\TimeZone\SynchronizeTimeZone
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\tzsync.exe"
+返回结果：
+C:\WINDOWS\system32\tzsync.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\UNP\RunUpdateNotificationMgr
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\System32\UNP\UpdateNotificationMgr.exe"
+返回结果：
+C:\WINDOWS\System32\UNP\UpdateNotificationMgr.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\UNP\RunUpdateNotificationMgr
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\System32\UNP\UpdateNotificationMgr.exe"
+返回结果：
+C:\WINDOWS\System32\UNP\UpdateNotificationMgr.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\UpdateOrchestrator\ScheduleScan
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%systemroot%\system32\usoclient.exe"
+返回结果：
+C:\WINDOWS\system32\UsoClient.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\UpdateOrchestrator\ScheduleScanStaticTask
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%systemroot%\system32\usoclient.exe"
+返回结果：
+C:\WINDOWS\system32\UsoClient.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\UpdateOrchestrator\ScheduleScanStaticTask
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%systemroot%\system32\usoclient.exe"
+返回结果：
+C:\WINDOWS\system32\UsoClient.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\UpdateOrchestrator\ScheduleScanStaticTask
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%systemroot%\system32\usoclient.exe"
+返回结果：
+C:\WINDOWS\system32\UsoClient.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\UpdateOrchestrator\ScheduleScanStaticTask
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%systemroot%\system32\usoclient.exe"
+返回结果：
+C:\WINDOWS\system32\UsoClient.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\UpdateOrchestrator\ScheduleScanStaticTask
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%systemroot%\system32\usoclient.exe"
+返回结果：
+C:\WINDOWS\system32\UsoClient.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\UpdateOrchestrator\UpdateModelTask
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%systemroot%\system32\usoclient.exe"
+返回结果：
+C:\WINDOWS\system32\UsoClient.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\UpdateOrchestrator\USO_UxBroker
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%systemroot%\system32\MusNotification.exe"
+返回结果：
+C:\WINDOWS\system32\MusNotification.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\UpdateOrchestrator\USO_UxBroker
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%systemroot%\system32\MusNotification.exe"
+返回结果：
+C:\WINDOWS\system32\MusNotification.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\WCM\WiFiTask
+作为用户运行：
+INTERACTIVE
+执行命令：
+accesschk.exe  /accepteula -uwqv "%SystemRoot%\System32\WiFiTask.exe"
+返回结果：
+C:\WINDOWS\System32\wifitask.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\WindowsErrorReporting\QueueReporting
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\wermgr.exe"
+返回结果：
+C:\WINDOWS\system32\wermgr.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\WindowsErrorReporting\QueueReporting
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\wermgr.exe"
+返回结果：
+C:\WINDOWS\system32\wermgr.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\WindowsErrorReporting\QueueReporting
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\wermgr.exe"
+返回结果：
+C:\WINDOWS\system32\wermgr.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\WindowsErrorReporting\QueueReporting
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\wermgr.exe"
+返回结果：
+C:\WINDOWS\system32\wermgr.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\WindowsErrorReporting\QueueReporting
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\wermgr.exe"
+返回结果：
+C:\WINDOWS\system32\wermgr.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\WindowsFilteringPlatform\BfeOnServiceStartTypeChange
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\system32\rundll32.exe"
+返回结果：
+C:\WINDOWS\system32\rundll32.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\WindowsMediaSharing\UpdateLibrary
+作为用户运行：
+AuthenticatedUsers
+执行命令：
+accesschk.exe  /accepteula -uwqv "%ProgramFiles%\Windows Media Player\wmpnscfg.exe"
+返回结果：
+C:\Program Files\Windows Media Player\wmpnscfg.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\WindowsUpdate\ScheduledStart
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\WINDOWS\system32\sc.exe"
+返回结果：
+C:\WINDOWS\system32\sc.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\WindowsUpdate\ScheduledStart
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\WINDOWS\system32\sc.exe"
+返回结果：
+C:\WINDOWS\system32\sc.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\WindowsUpdate\ScheduledStart
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\WINDOWS\system32\sc.exe"
+返回结果：
+C:\WINDOWS\system32\sc.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\WindowsUpdate\ScheduledStart
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "C:\WINDOWS\system32\sc.exe"
+返回结果：
+C:\WINDOWS\system32\sc.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\WindowsUpdate\sihpostreboot
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%systemroot%\system32\sihclient.exe"
+返回结果：
+C:\WINDOWS\system32\SIHClient.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\WorkplaceJoin\Automatic-Device-Join
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%SystemRoot%\System32\dsregcmd.exe"
+返回结果：
+C:\WINDOWS\System32\dsregcmd.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\WorkplaceJoin\Automatic-Device-Join
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%SystemRoot%\System32\dsregcmd.exe"
+返回结果：
+C:\WINDOWS\System32\dsregcmd.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\WorkplaceJoin\Recovery-Check
+作为用户运行：
+INTERACTIVE
+执行命令：
+accesschk.exe  /accepteula -uwqv "%SystemRoot%\System32\dsregcmd.exe"
+返回结果：
+C:\WINDOWS\System32\dsregcmd.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\WorkplaceJoin\Recovery-Check
+作为用户运行：
+INTERACTIVE
+执行命令：
+accesschk.exe  /accepteula -uwqv "%SystemRoot%\System32\dsregcmd.exe"
+返回结果：
+C:\WINDOWS\System32\dsregcmd.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\Windows\WwanSvc\NotificationTask
+作为用户运行：
+INTERACTIVE
+执行命令：
+accesschk.exe  /accepteula -uwqv "%SystemRoot%\System32\WiFiTask.exe"
+返回结果：
+C:\WINDOWS\System32\wifitask.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------
+任务名：
+\Microsoft\XblGameSave\XblGameSaveTask
+作为用户运行：
+SYSTEM
+执行命令：
+accesschk.exe  /accepteula -uwqv "%windir%\System32\XblGameSaveTask.exe"
+返回结果：
+C:\WINDOWS\System32\XblGameSaveTask.exe
+  Medium Mandatory Level (Default) [No-Write-Up]
+  RW NT SERVICE\TrustedInstaller
+	FILE_ALL_ACCESS
+
+--------------------------------------------------------------------------

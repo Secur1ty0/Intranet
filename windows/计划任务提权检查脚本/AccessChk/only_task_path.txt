@@ -1,0 +1,16 @@
+%windir%\system32\COM.exe
+%windir%\system32\appidpolicyconverter.exe
+%windir%\system32\appidcertstorecheck.exe
+%windir%\system32\aitagent.exe
+%windir%\system32\rundll32.exe
+%SystemRoot%\System32\wsqmcons.exe
+%windir%\system32\ceipdata.exe
+%windir%\system32\ceiprole.exe
+%windir%\system32\Multiple.exe
+%windir%\system32\defrag.exe
+%windir%\system32\lpremove.exe
+%windir%\system32\gatherNetworkInfo.vbs
+%SystemRoot%\System32\powercfg.exe
+%windir%\system32\ServerManagerLauncher.exe
+%windir%\system32\sc.exe
+%windir%\system32\wermgr.exe
